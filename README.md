@@ -11,6 +11,3 @@ The dataset files are:
 * [covid_impact_on_airport_traffic.csv](https://github.com/chriskal96/covid19-impact/blob/main/covid_impact_on_airport_traffic.csv)
 
 
-## Author
-
-<a href="https://github.com/chriskal96">Christos Kallaras</a>
